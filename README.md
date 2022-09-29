@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Bang-Shiuh!
 
 
-I got my PhD from Purdue University for Aeronautical Engineering, and I am a post-doc at MIT. I am originally from Taiwan. My research interests are doing mathematical modeling for different substances (gas, solid, liquid, and plasma). 
+I am from Taiwan. I got my PhD at Purdue University in Aeronautical Engineering, and I am a post-doc at MIT. My research interests are doing mathematical modeling for different substances (gas, solid, liquid, and plasma).
 
 - 🔭 I’m currently working on Modeling plasma discharges for assisting combustion. 
 - 🌱 I’m currently learning Korean.
